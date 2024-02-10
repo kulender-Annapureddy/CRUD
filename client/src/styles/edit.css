@@ -1,0 +1,24 @@
+.btnsclass1 {
+    display:flex;
+    justify-content: space-around;
+   align-items: center;
+   margin-top:-20px;
+}
+.btns{
+    background-color: black;
+    color:white;
+    font-weight: 500;
+}
+.linksof{
+    text-decoration: none;
+    color: white;
+}
+.heading{
+    position:relative;
+}
+.label {
+    color:white;
+    position:absolute;
+    top:0;
+    left: 20px;
+}
